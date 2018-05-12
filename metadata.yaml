@@ -1,10 +1,16 @@
 _repo: A-Rational-Wages-System-Some-Notes-on-the-Method-of-Paying-the-Worker-a-Reward-for-Efficiency__46977
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46977-h/images/cover.jpg
 creator:
   author:
     agent_name: Atkinson, Henry
     gutenberg_agent_id: '44070'
     url: http://www.gutenberg.org/2009/agents/44070
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46977#A-Rational-Wages-System-Some-Notes-on-the-Method-of-Paying-the-Worker-a-Reward-for-Efficiency_
 gutenberg_issued: '2014-09-27'
 gutenberg_type: Text
 identifiers:
