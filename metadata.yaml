@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'A Rational Wages System
 
   Some Notes on the Method of Paying the Worker a Reward for Efficiency in Addition
